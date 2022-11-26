@@ -3,13 +3,21 @@ Overview of the Analysis
 A written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 Results 
+
 Rural
+
   Total rides: 125
+  
   Total drivers: 78
+  
   Total fares: 4327.93
+  
   Average fare per ride: 34.62
+  
   Average fare per driver: 55.49
+  
 The rural city type has the highest average fare per ride and per driver. 
+
   
 Suburban 
   Total rides: 625
